@@ -39,7 +39,7 @@
     "lint-staged": "13.0.3",
     "monaco-editor": "^0.34.0",
     "msw": "0.47.1",
-    "nuxt": "3.0.0-rc.9",
+    "nuxt": "3.0.0-rc.11",
     "nuxt-monaco-editor": "^1.0.2",
     "postcss-html": "1.5.0",
     "prettier": "2.7.1",
